@@ -16,6 +16,7 @@
 ### Free Online Calculators
 - [BuiltRight Academy Calculators](https://builtright-academy.vercel.app/tools) - 40+ free construction calculators (concrete, paint, roofing, drywall, electrical, HVAC, and more)
 - [Calculator.net Construction](https://www.calculator.net/construction-calculator.html) - Basic construction calculators
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Free concrete volume, bag coverage, slab, footing, and ready-mix vs bags calculators for contractors and homeowners
 
 ### Estimating Software
 - [Buildertrend](https://buildertrend.com) - Construction project management with estimating
