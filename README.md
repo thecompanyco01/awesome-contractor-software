@@ -39,6 +39,7 @@
 ## CRM
 - [ServiceTitan](https://www.servicetitan.com) - Home service CRM
 - [Jobber](https://getjobber.com) - Service business CRM & scheduling
+- [Workforce Wave](https://www.workforcewave.com/) - AI voice receptionist that answers inbound calls 24/7, books appointments, and captures leads for contractors and service businesses
 
 ## Learning & Training
 - [BuiltRight Academy](https://builtright-academy.vercel.app) - Free business guides, templates, and tools for tradespeople
