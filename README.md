@@ -28,6 +28,7 @@
 - [Fieldwire](https://www.fieldwire.com) - Field management for construction
 
 ## Invoicing & Payments
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser-based invoice/receipt PDF generator for contractors and tradespeople. [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-contractor-software-v1) with white-label PDFs, six templates, and CSV batch CLI. No account required.
 - [FreshBooks](https://www.freshbooks.com) - Invoice & accounting for small contractors
 - [QuickBooks](https://quickbooks.intuit.com) - Industry-standard accounting
 - [Invoice Ninja](https://invoiceninja.com) - Open source invoicing
