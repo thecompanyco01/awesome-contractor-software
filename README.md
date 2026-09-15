@@ -21,6 +21,7 @@
 - [Buildertrend](https://buildertrend.com) - Construction project management with estimating
 - [CoConstruct](https://www.coconstruct.com) - Custom home builder & remodeler software
 - [Stack](https://www.stackct.com) - Digital takeoff and estimating
+- [BidWright](https://github.com/braedonsaunders/bidwright) - Open-source construction estimating with 2D/3D/PDF/BIM/point-cloud takeoff
 
 ## Project Management
 - [Procore](https://www.procore.com) - Enterprise construction management
