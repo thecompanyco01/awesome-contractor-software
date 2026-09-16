@@ -37,8 +37,9 @@
 - [Housecall Pro](https://www.housecallpro.com) - Home service scheduling
 
 ## CRM
-- [ServiceTitan](https://www.servicetitan.com) - Home service CRM
 - [Jobber](https://getjobber.com) - Service business CRM & scheduling
+- [More Good Reviews](https://moregoodreviews.com) - AI reputation manager for local service businesses: automate email/SMS review requests, sync Google & Facebook reviews, and draft AI replies (Agency white-label available)
+- [ServiceTitan](https://www.servicetitan.com) - Home service CRM
 
 ## Learning & Training
 - [BuiltRight Academy](https://builtright-academy.vercel.app) - Free business guides, templates, and tools for tradespeople
