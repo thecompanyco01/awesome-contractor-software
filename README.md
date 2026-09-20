@@ -19,6 +19,7 @@
 
 ### Estimating Software
 - [Buildertrend](https://buildertrend.com) - Construction project management with estimating
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser tools for freelancers: invoices, quotes, timesheets, contracts, and client docs. No signup.
 - [CoConstruct](https://www.coconstruct.com) - Custom home builder & remodeler software
 - [Stack](https://www.stackct.com) - Digital takeoff and estimating
 
