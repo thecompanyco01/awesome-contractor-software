@@ -15,6 +15,7 @@
 
 ### Free Online Calculators
 - [BuiltRight Academy Calculators](https://builtright-academy.vercel.app/tools) - 40+ free construction calculators (concrete, paint, roofing, drywall, electrical, HVAC, and more)
+- [Calculation Hub Concrete Volume Calculator](https://calculation-hub.com/construction/concrete-volume) - Free measured-dimension volume and waste-allowance estimates for materials planning; not structural design or mix approval.
 - [Calculator.net Construction](https://www.calculator.net/construction-calculator.html) - Basic construction calculators
 
 ### Estimating Software
