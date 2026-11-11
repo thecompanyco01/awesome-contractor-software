@@ -35,6 +35,7 @@
 ## Scheduling
 - [Jobber](https://getjobber.com) - Service business scheduling
 - [Housecall Pro](https://www.housecallpro.com) - Home service scheduling
+- [Genaya](https://genaya.com) - Contractor scheduling, invoicing and AI phone receptionist
 
 ## CRM
 - [ServiceTitan](https://www.servicetitan.com) - Home service CRM
